@@ -1,0 +1,2 @@
+[OK] MOVIDO: arquivo_novo.txt → outros/
+[OK] MOVIDO: README.md → outros/
